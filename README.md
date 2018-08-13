@@ -12,9 +12,9 @@ Prerequisite :
 
 To run the tests follow the below steps
 
-1. Run the command "npm install" to install all node packages 
-2. Run "npm webdriver-start" to install the webdrivers
-3. Run "npm clean-build" to clean and build the test code
-4. Run "npm test" to start the tests
+1. Run the command "npm install" to install all node packages in the project root directory
+2. Run "npm run webdriver-update" to install the webdrivers
+3. Run "npm run clean-build" to clean and build the test code
+4. Run "npm run test" to start the tests
 
 
